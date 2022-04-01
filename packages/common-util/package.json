@@ -1,0 +1,12 @@
+{
+  "name": "@jhui/common-util",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 123"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
