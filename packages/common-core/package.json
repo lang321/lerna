@@ -1,6 +1,6 @@
 {
   "name": "@jhui/common-core",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "dependencies": {
-    "@jhui/common-util": "^0.0.1"
+    "@jhui/common-util": "^1.0.2"
   },
   "author": "",
   "license": "ISC"
